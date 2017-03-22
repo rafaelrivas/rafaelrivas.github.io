@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.marb.iguana",
+    "sha256_cert_fingerprints":
+    ["9F:21:D1:C7:96:3D:BC:1A:14:2E:98:78:17:4D:63:AD:83:6E:19:C7:A8:CE:06:2C:B1:C5:A2:C0:F9:31:4D:58"]
+  }
+}]
