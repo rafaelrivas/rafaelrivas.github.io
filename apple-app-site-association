@@ -1,0 +1,20 @@
+{
+  "activitycontinuation": {
+   "apps": [
+     "9JA89QQLNQ.com.apple.wwdc"
+   ]
+  },
+  "applinks": {
+      "apps": [ ],
+      "details": [
+          {
+              "appID": "K7DFYW2E7Y.com.iguanafix.mobile.ios-dev",
+              "paths": [ "/polaco" ]
+          },
+          {
+              "appID": "K7DFYW2E7Y.com.iguanafix.mobile.ios",
+              "paths": [ "/productIntallation", "/especificJob", "/proMessage" ]
+          }
+      ]
+  }
+}
